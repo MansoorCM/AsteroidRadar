@@ -10,7 +10,7 @@ To get the api key go to https://api.nasa.gov/
 <img src="nasa_api.PNG" width=450>
 
 # App description
-Asteroid Radar is an app to view the asteroids close to earth that are detected by Nasa. It shows asteorids given
+Asteroid Radar is an app to view the asteroids close to earth that are detected by Nasa. It shows asteroids given
  a period of time with data such as the size, velocity, distance to earth and if they are potentially hazardous. 
 The app also shows the nasa image of the day.
 
